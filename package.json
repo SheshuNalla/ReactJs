@@ -1,0 +1,36 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "intro to react",
+  "keywords": [
+    "Reactjs",
+    "by",
+    "sheshu"
+  ],
+  "homepage": "https://github.com/SheshuNalla/ReactJs#readme",
+  "bugs": {
+    "url": "https://github.com/SheshuNalla/ReactJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheshuNalla/ReactJs.git"
+  },
+  "license": "ISC",
+  "author": "SheshuN",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
